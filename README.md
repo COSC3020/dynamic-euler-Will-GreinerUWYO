@@ -18,6 +18,9 @@ but you need to go beyond that.
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
 
+The algorithm always runs once through the for loop, meaning it always takes n time.
+The worst-case big $\Theta$ time complexity of my algorithm is $\Theta(n)$. This is also the average and best case.
+
 ## Sources and Plagarism Statement
 Borrowed the expanded test code from megrose10's repo. Used this website [InterviewCake](https://www.interviewcake.com/concept/java/bottom-up#:~:text=Going%20bottom%2Dup%20is%20a%20common%20strategy%20for%20dynamic%20programming,dynamic%20programming%20problems%20is%20memoization.)  and the slides to help me understand bottom-up dynamic programming.
 
